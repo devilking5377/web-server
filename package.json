@@ -1,0 +1,29 @@
+{
+  "name": "server-node-js",
+  "version": "1.0.0",
+  "description": "this a web server",
+  "keywords": [
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "homepage": "https://github.com/devilking5377/web-server#readme",
+  "bugs": {
+    "url": "https://github.com/devilking5377/web-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilking5377/web-server.git"
+  },
+  "license": "ISC",
+  "author": "devil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "dependencies": {
+    "all": "^0.0.0",
+    "express": "^4.21.2"
+  }
+}
